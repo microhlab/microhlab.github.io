@@ -7,9 +7,7 @@ layout: page
 
 [jekyll-organization]: https://github.com/chientr
 
-<p align="center">
 ![logo](./assets/logo.png)
-</p>
 
 # Research fields
 My research interests focus on applying computer vision technology into Medical Image Diagnosis, assist doctors to give accurate diagnosis through medical images (MRI, DCE-MRI, CT, mp-MRI). In April of 2017, I successfully gave my PhD dissertation defence, in title **ROI Contrast Enhancement and CNNs Adaptation to Medical Image Applications**. My dissertation includes two main contents: 1) Enhancing the contrast at each specific region of interest (ROI) in the application of Renal Compartments Segmentation based on DCE-MRI Images and in the application of Cerebrovascular Segmentation; 2) The adaptation of Deep Convolutional Neural Networks in the application of Prostate Cancer Diagnosis in mp-MRI Images.
